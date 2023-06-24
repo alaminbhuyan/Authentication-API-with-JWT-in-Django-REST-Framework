@@ -21,3 +21,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/user/', include('account.urls'))
 ]
+
+
+# Admin email and password
+# Email: alaminbhuyan321@gmail.com
+# Password: admin
