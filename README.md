@@ -14,3 +14,6 @@
 [Corsh Headers] (https://github.com/adamchainz/django-cors-headers)
 
 [Django Custom User Create] (https://docs.djangoproject.com/en/4.2/topics/auth/customizing/#a-full-example)
+
+
+[To Send Email] (https://docs.djangoproject.com/en/4.2/topics/email/)
