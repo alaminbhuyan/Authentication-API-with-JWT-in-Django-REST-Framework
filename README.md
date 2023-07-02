@@ -17,3 +17,10 @@
 
 
 [To Send Email] (https://docs.djangoproject.com/en/4.2/topics/email/)
+
+
+## Installation
+1) At first create a virtualenv
+2) run in command prompt: pip install -r requirements.txt
+3) run in command prompt: python manage.py makemigrations
+4) run in command prompt: python manage.py migrate
